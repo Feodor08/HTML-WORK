@@ -1,6 +1,6 @@
-h2 {
+tr {
 	font-weight: normal;
 }
-p {
-	font-weight: bold;
+th {
+	font-style: italic;
 }
