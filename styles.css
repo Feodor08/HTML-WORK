@@ -8,3 +8,6 @@ tr {
 	width: 200px;
 	height: 100px;
 }
+th {
+	text-align: left;
+}
