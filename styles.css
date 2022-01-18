@@ -1,6 +1,6 @@
 p {
-	text-decoration: overline;
+	text-decoration: line-through;
 }
 p {
-	color: red;
+	color: green;
 }
