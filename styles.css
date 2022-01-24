@@ -1,6 +1,14 @@
-.block1 {
-	color: red;
+.eee {
+	font-size: 20px;
 }
-.block2 {
-	color: green;
+.zzz {
+	font-size: 30px;
+	}
+.ggg {
+	font-size: 35px;
+	}
+.eee .zzz .ggg 
+{
+	text-align: center;
+	font-family: Arial;
 }
