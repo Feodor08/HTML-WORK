@@ -1,3 +1,7 @@
-p .bbb {
+.eee p.bbb {
+	color: red;
+}
+
+.eee p .bbb {
 	color: red;
 }
