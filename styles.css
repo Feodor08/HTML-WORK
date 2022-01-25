@@ -1,6 +1,6 @@
-
-/*задача 15*/
-
-#elem .bbb {
-	color: firebrick;
+#block h1 {
+	text-align: center;
+}
+#block h2 {
+	text-align: center;
 }
