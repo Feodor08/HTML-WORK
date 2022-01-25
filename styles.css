@@ -1,12 +1,8 @@
-.success {
-	color: blue;
-}
-.error {
+#elem1 {
 	color: red;
 }
-.large {
-	font-size: 60px;
-}
-.small {
-	font-family: Arial;
+#elem2 {
+	color: green;
+}#elem3 {
+	color: blue;
 }
