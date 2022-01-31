@@ -1,3 +1,13 @@
-.eee h2.zzz .xxx {
-	text-align: center;
-}
+#parent {
+				width: 200px;
+				border: 1px solid red;
+			}
+			#child {
+				margin-top:    50px;
+				margin-right:  25px;
+				margin-bottom: 50px;
+				margin-left:   25px;
+				
+				height: 100px;
+				border: 1px solid green;
+			}
